@@ -1,0 +1,18 @@
+{
+    "name": "callburn/php-sdk",
+    "description": "Callburn-sdk",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Tigran Farmanyan",
+            "email": "tiko@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Callburn\\": "src/"
+        }
+    }
+}
